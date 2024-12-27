@@ -40,3 +40,5 @@ build*
 .cache
 *.deps
 *.DS_Store
+
+*graphics*
