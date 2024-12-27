@@ -1,0 +1,6 @@
+[submodule "sem_7/external/INMOST_Practicum_2024"]
+	path = sem_7/external/INMOST_Practicum_2024
+	url = git@github.com:denis-anuprienko/INMOST_Practicum_2024.git
+[submodule "sem_7/external/INMOST"]
+	path = sem_7/external/INMOST
+	url = git@github.com:INMOST-DEV/INMOST.git
